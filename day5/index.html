@@ -37,16 +37,27 @@
 	</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="../assets/js/bootstrap.js"></script>
+	<!-- Simple function only for button click --><script>
+	var v = document.getElementById("video");
+	var l = document.getElementById("link");
+	l.onclick = function() {
+    v.play();
+	v.currentTime = 0
+	};		
+	</script>
+	<!-- Function for both button click and close
 	<script>
 	var v = document.getElementById("video");
 	var l = document.getElementById("link");
 	var s = document.getElementById("stop");
     l.onclick = function() {
-    v.play();
-	};
-	s.onclick = function() {
-	v.stop();
+    v.play();	
 	};	
-	</script>
+	s.onclick = function() {
+	v.pause();
+	v.currentTime = 0;
+	};	
+	</script> 
+	-->
   </body>
 </html>
