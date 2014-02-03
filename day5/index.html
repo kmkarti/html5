@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Modal window(grid)</title>
+<title>Modal window(video-autoplay)</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="../assets/css/bootstrap.css" rel="stylesheet">
@@ -11,11 +11,11 @@
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+			<button type="button" id="stop" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
 			<h4 class="modal-title" id="myModalLabel" style="text-align: center;">Crazy monkey</h4>
           </div>
           <div class="modal-body">
-			<video style="height:100%; width:100%;" src="../assets/videos/crazy-monkey.mp4" controls autoplay></video>
+			<video style="height:100%; width:100%;" id="video" src="../assets/videos/crazy-monkey.mp4" controls></video>
 			<hr>
             </div>
 		</div>
@@ -30,12 +30,23 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-6 col-md-12">
 				<p class="text-center">
-					<a title="Click to proceed!" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Give me all your money</a>
+					<a title="Click to proceed!" id="link" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Give me all your money</a>
 				</p>
 			</div>
 		</div>
 	</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="../assets/js/bootstrap.js"></script>
+	<script>
+	var v = document.getElementById("video");
+	var l = document.getElementById("link");
+	var s = document.getElementById("stop");
+    l.onclick = function() {
+    v.play();
+	};
+	s.onclick = function() {
+	v.stop();
+	};	
+	</script>
   </body>
 </html>
