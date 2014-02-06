@@ -62,3 +62,49 @@ section {
 #pamban>div:nth-of-type(1) {
     background: url(../images/21/pamban.jpg) 50% 0 no-repeat fixed;
 }
+
+
+section article{
+	position:absolute;
+	top:200px;
+	left:40px;
+	width:280px;
+	padding: 40px 20px 30px 30px;
+	z-index: 4;
+}
+section h2{
+	border: 3px dashed #fff;
+	border-radius: 100%;
+	width:60px;
+	font-size: 50px;
+	font-style: italic;
+	color:#fff;
+	text-align:center;
+	position: absolute;
+	top:-150px;
+	left:40px;
+	padding: 15px;
+	box-shadow: -1px -1px 6px 2px rgba(0,0,0,.2);
+}
+section h1{
+	font-size: 25px;
+	color: #fff;
+	font-style: italic;
+	font-weight: normal;
+}
+section p{
+	font-size:13px;
+	color: #fff;
+}
+section a{
+	font-size:13px;
+	color:#fff;
+	text-decoration:none;
+}
+section a:hover{
+	font-size:14px;
+	color:#fff;
+	background-color:rgba(255,255,255,.1);
+	border-radius: 4px;
+	padding: 8px;
+}
