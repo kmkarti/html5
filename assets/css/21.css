@@ -108,3 +108,24 @@ section a:hover{
 	border-radius: 4px;
 	padding: 8px;
 }
+.red{
+	background-color:#C00;
+}
+.blue{
+	background-color:#33F;
+}
+.orange{
+	background-color:#F60;
+}
+.purple{
+	background-color:#609;
+}
+.yellow{
+	background-color:#FC0;
+}
+.black{
+	background-color:#000;
+}
+.green{
+	background-color:#92CD00;
+}
