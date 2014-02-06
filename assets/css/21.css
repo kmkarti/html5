@@ -77,11 +77,11 @@ section {
 #valpar>div:nth-of-type(1){
 	background: url(../images/21/valpar.jpg) 50% 0 no-repeat fixed;
 }
-#>div:nth-of-type(1) {
-    background: url(../images/21/.jpg) 50% 0 no-repeat fixed;
+#tharan>div:nth-of-type(1) {
+    background: url(../images/21/tharan.jpg) 50% 0 no-repeat fixed;
 }
-#>div:nth-of-type(1) {
-    background: url(../images/21/.jpg) 50% 0 no-repeat fixed;
+#yela>div:nth-of-type(1) {
+    background: url(../images/21/yela.jpg) 50% 0 no-repeat fixed;
 }
 #meena>div:nth-of-type(1) {
     background: url(../images/21/meena.jpg) 50% 0 no-repeat fixed;
