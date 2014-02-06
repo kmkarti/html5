@@ -19,7 +19,7 @@ koval.jpg - downloaded from http://www.flickr.com/photos/sarath_kuchi/8733135029
 train.jpg - downloaded from http://www.flickr.com/photos/accidentdesigns/5565086254/
 bird.jpg - downloaded from http://www.flickr.com/photos/kumaravel/8564184297/
 valpar.jpg - downloaded from http://www.flickr.com/photos/moorthygounder/2619709175/
-
-
+tharan.jpg - downloaded from http://www.flickr.com/photos/sankaracs/4989233019/
+yela.jpg - downloaded from http://www.flickr.com/photos/ashwinkumar/3975870485/
 meena.jpg - downloaded from http://www.flickr.com/photos/azwegers/6847587038/
 sadras.jpg - downloaded from http://en.wikipedia.org/wiki/File:Sadras_fort_entrance.JPG
