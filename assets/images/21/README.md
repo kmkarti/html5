@@ -1,7 +1,7 @@
 This directory contains images used in 21 reason html file(day6)
 
 tamilnadu.gif - downloaded from http://www.visitvalparai.com/img/Tamilnadu_Tourism_logo.gif
-home.jpg - downloaded from http://www.flickr.com/photos/marittime/5375366495/
+home.jpg - downloaded from http://upload.wikimedia.org/wikipedia/commons/b/be/Palm-leaf_manuscript.jpg
 tanjore.jpg - downloaded from http://www.flickr.com/photos/jvcruz/5377498454/
 ooty.jpg - downloaded from http://www.flickr.com/photos/abhinavsaxena/297322822/
 valluvar.jpg - downloaded from http://www.flickr.com/photos/ramnath1971/9675308798/
