@@ -19,74 +19,74 @@ section {
     padding: 0;
     overflow: hidden;
 }
-.sect>div:nth-of-type(1) {
+.sect div{
     margin: 0;
     height: 1200px;
     position:absolute;
     width:100%;
     top:0;left:0;
 }
-#tanjore>div:nth-of-type(1) {
+#tanjore div{
     background: url(../images/21/tanjore.jpg) 50% 0 no-repeat fixed;
 }
-#ooty>div:nth-of-type(1) {
+#ooty div{
     background: url(../images/21/ooty.jpg) 50% 0 no-repeat fixed;
 }
-#valluvar>div:nth-of-type(1) {
+#valluvar div{
     background: url(../images/21/valluvar.jpg) 50% 0 no-repeat fixed;
 }
-#theru>div:nth-of-type(1) {
+#theru div{
     background: url(../images/21/theru.jpg) 50% 0 no-repeat fixed;
 }
-#rockfort>div:nth-of-type(1) {
+#rockfort div{
     background: url(../images/21/rockfort.jpg) 50% 0 no-repeat fixed;
 }
-#mahab>div:nth-of-type(1) {
+#mahab div{
     background: url(../images/21/mahab.jpg) 50% 0 no-repeat fixed;
 }
-#courtal>div:nth-of-type(1) {
+#courtal div{
     background: url(../images/21/courtal.jpg) 50% 0 no-repeat fixed;
 }
-#muduma>div:nth-of-type(1) {
+#muduma div{
     background: url(../images/21/muduma.jpg) 50% 0 no-repeat fixed;
 }
-#thiruma>div:nth-of-type(1) {
+#thiruma div{
     background: url(../images/21/thiruma.jpg) 50% 0 no-repeat fixed;
 }
-#bomma>div:nth-of-type(1) {
+#bomma div{
     background: url(../images/21/bomma.jpg) 50% 0 no-repeat fixed;
 }
-#idli>div:nth-of-type(1) {
+#idli div{
     background: url(../images/21/idli.jpg) 50% 0 no-repeat fixed;
 }
-#pamban>div:nth-of-type(1) {
+#pamban div{
     background: url(../images/21/pamban.jpg) 50% 0 no-repeat fixed;
 }
-#santhome>div:nth-of-type(1) {
+#santhome div{
     background: url(../images/21/santhome.jpg) 50% 0 no-repeat fixed;
 }
-#koval>div:nth-of-type(1) {
+#koval div{
     background: url(../images/21/koval.jpg) 50% 0 no-repeat fixed;
 }
-#train>div:nth-of-type(1) {
+#train div{
     background: url(../images/21/train.jpg) 50% 0 no-repeat fixed;
 }
-#bird>div:nth-of-type(1) {
+#bird div{
     background: url(../images/21/bird.jpg) 50% 0 no-repeat fixed;
 }
-#valpar>div:nth-of-type(1){
+#valpar div{
 	background: url(../images/21/valpar.jpg) 50% 0 no-repeat fixed;
 }
-#tharan>div:nth-of-type(1) {
+#tharan div{
     background: url(../images/21/tharan.jpg) 50% 0 no-repeat fixed;
 }
-#yela>div:nth-of-type(1) {
+#yela div{
     background: url(../images/21/yela.jpg) 50% 0 no-repeat fixed;
 }
-#meena>div:nth-of-type(1) {
+#meena div{
     background: url(../images/21/meena.jpg) 50% 0 no-repeat fixed;
 }
-#sadras>div:nth-of-type(1) {
+#sadras div{
     background: url(../images/21/sadras.jpg) 50% 0 no-repeat fixed;
 }
 section article{
