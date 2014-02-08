@@ -1,5 +1,5 @@
 ﻿header{
-	background-image:url(../images/21/home.jpg);
+	background-image:url(../images/21/home-h.jpg);
 	height:500px;
 }
 header h2{
@@ -8,7 +8,11 @@ header h2{
 	padding:30px 30px 0px 30px;
 }
 header h1{
-	margin:0;
+	margin-right: 150px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: right;
+	height: 100%;
 }
 section {
     min-height: 1000px;
@@ -155,7 +159,7 @@ section a:hover{
 	background-color:#92CD00;
 }
 footer{
-	background:url(../images/21/home.jpg);
+	background:url(../images/21/home-f.jpg);
 	height:175px;
 }
 footer img{
