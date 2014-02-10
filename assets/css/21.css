@@ -1,11 +1,14 @@
 ﻿header{
 	background-image:url(../images/21/home-h.jpg);
-	height:500px;
+	height:600px;
+	min-width: 1000px;
 	width:100%;
 }
-header h2{
+.logo{
 	float:left;
-	padding:10px 30px 0px 10px;
+	position:absolute;
+	left: -50px;
+	padding-top: 30px;
 }
 header h1{
 	font-family: oregano;
@@ -15,6 +18,8 @@ header h1{
 	position:absolute;
 	top:40px;
 	left:380px;
+	font-weight: 400;
+	font-style: italic;
 }
 header p{
 	font-family:volkhov;
@@ -36,74 +41,74 @@ section {
     padding: 0;
     overflow: hidden;	
 }
-.sect div{
+.sect>div:nth-of-type(1){
     margin: 0;
     height: 1200px;
     position:absolute;
     width:100%;
     top:0;left:0;
 }
-#tanjore div{
+#tanjore>div:nth-of-type(1){
     background: url(../images/21/tanjore.jpg) 50% 0 no-repeat fixed;
 }
-#ooty div{
+#ooty>div:nth-of-type(1){
     background: url(../images/21/ooty.jpg) 50% 0 no-repeat fixed;
 }
-#valluvar div{
+#valluvar>div:nth-of-type(1){
     background: url(../images/21/valluvar.jpg) 50% 0 no-repeat fixed;
 }
-#theru div{
+#theru>div:nth-of-type(1){
     background: url(../images/21/theru.jpg) 50% 0 no-repeat fixed;
 }
-#rockfort div{
+#rockfort>div:nth-of-type(1){
     background: url(../images/21/rockfort.jpg) 50% 0 no-repeat fixed;
 }
-#mahab div{
+#mahab>div:nth-of-type(1){
     background: url(../images/21/mahab.jpg) 50% 0 no-repeat fixed;
 }
-#courtal div{
+#courtal>div:nth-of-type(1){
     background: url(../images/21/courtal.jpg) 50% 0 no-repeat fixed;
 }
-#muduma div{
+#muduma>div:nth-of-type(1){
     background: url(../images/21/muduma.jpg) 50% 0 no-repeat fixed;
 }
-#thiruma div{
+#thiruma>div:nth-of-type(1){
     background: url(../images/21/thiruma.jpg) 50% 0 no-repeat fixed;
 }
-#bomma div{
+#bomma>div:nth-of-type(1){
     background: url(../images/21/bomma.jpg) 50% 0 no-repeat fixed;
 }
-#idli div{
+#idli>div:nth-of-type(1){
     background: url(../images/21/idli.jpg) 50% 0 no-repeat fixed;
 }
-#pamban div{
+#pamban>div:nth-of-type(1){
     background: url(../images/21/pamban.jpg) 50% 0 no-repeat fixed;
 }
-#santhome div{
+#santhome>div:nth-of-type(1){
     background: url(../images/21/santhome.jpg) 50% 0 no-repeat fixed;
 }
-#koval div{
+#koval>div:nth-of-type(1){
     background: url(../images/21/koval.jpg) 50% 0 no-repeat fixed;
 }
-#train div{
+#train>div:nth-of-type(1){
     background: url(../images/21/train.jpg) 50% 0 no-repeat fixed;
 }
-#bird div{
+#bird>div:nth-of-type(1){
     background: url(../images/21/bird.jpg) 50% 0 no-repeat fixed;
 }
-#valpar div{
+#valpar>div:nth-of-type(1){
 	background: url(../images/21/valpar.jpg) 50% 0 no-repeat fixed;
 }
-#tharan div{
+#tharan>div:nth-of-type(1){
     background: url(../images/21/tharan.jpg) 50% 0 no-repeat fixed;
 }
-#yela div{
+#yela>div:nth-of-type(1){
     background: url(../images/21/yela.jpg) 50% 0 no-repeat fixed;
 }
-#meena div{
+#meena>div:nth-of-type(1){
     background: url(../images/21/meena.jpg) 50% 0 no-repeat fixed;
 }
-#sadras div{
+#sadras>div:nth-of-type(1){
     background: url(../images/21/sadras.jpg) 50% 0 no-repeat fixed;
 }
 section article{
@@ -118,7 +123,7 @@ section article{
 section h2{
 	border: 3px dashed #fff;
 	border-radius: 100%;
-	width:60px;
+	width:90px;
 	font-size: 50px;
 	font-style: italic;
 	color:#fff;
@@ -174,8 +179,5 @@ section a:hover{
 footer{
 	background:url(../images/21/home-f.jpg);
 	height:175px;
-	width:100%
-}
-footer img{
-	padding:20px;
+	width:100%;
 }
