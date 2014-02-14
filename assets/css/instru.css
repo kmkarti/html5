@@ -1,0 +1,84 @@
+﻿h1,p{
+	text-align:center;
+}
+.instrum li{
+	padding:50px;
+	display:inline;
+	padding-bottom:150px;
+}
+.instrum li a{
+	padding:125px;
+	padding-bottom: 106px;
+	height: 250px;
+	width: 250px;
+	position: relative;
+	left: 4.5em;
+	text-decoration: none;
+	border-radius: 15px;
+}
+.instrum li a:hover{
+	box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+}
+.instrum1 li a{
+	top: 11.5em;
+}
+#cellob{
+	background: url("../images/instru/cello1.png") no-repeat;	
+}
+#cellob:hover{
+	background: url("../images/instru/cello2.png") no-repeat;	
+}
+#saxob{
+	background: url("../images/instru/saxophone1.png") no-repeat;	
+}
+#saxob:hover{
+	background: url("../images/instru/saxophone2.png") no-repeat;	
+}
+#snareb{
+	background: url("../images/instru/snare1.png") no-repeat;
+}
+#snareb:hover{
+	background: url("../images/instru/snare2.png") no-repeat;
+}
+.instrum2 li a{
+	top: 28em;
+}
+#shakerb{
+	background: url("../images/instru/shaker1.png") no-repeat;
+}
+#shakerb:hover{
+	background: url("../images/instru/shaker2.png") no-repeat;
+}
+#guitarb{
+	background: url("../images/instru/guitar1.png") no-repeat;
+}
+#guitarb:hover{
+	background: url("../images/instru/guitar2.png") no-repeat;
+}
+#fluteb{
+	background: url("../images/instru/flute1.png") no-repeat;
+}
+#fluteb:hover{
+	background: url("../images/instru/flute2.png") no-repeat;
+}
+.instrum3 li a{
+	top: 44.5em;
+}
+#trumpetb{
+	background: url("../images/instru/trumpet1.png") no-repeat;
+}
+#trumpetb:hover{
+	background: url("../images/instru/trumpet2.png") no-repeat;
+}
+#taikob{
+	background: url("../images/instru/taiko1.png") no-repeat;
+}
+#taikob:hover{
+	background: url("../images/instru/taiko2.png") no-repeat;
+}
+#banjob{
+	background: url("../images/instru/banjo1.png") no-repeat;
+}
+#banjob:hover{
+	background: url("../images/instru/banjo2.png") no-repeat;
+}

@@ -1,0 +1,9 @@
+cello.mp3 - downloaded from http://ccmixter.org/files/daniloprates/36328
+saxophone.mp3 - downloaded from http://ccmixter.org/files/stefsax/7599
+snare-drum.mp3 - downloaded from http://ccmixter.org/files/nickleus/28769
+shaker.mp3 - downloaded from http://en.wikipedia.org/wiki/File:Caxixi.ogg
+guitar.mp3 - downloaded from http://ccmixter.org/files/Pitx/30638
+flute.mp3 - downloaded from http://ccmixter.org/files/OxFF/13900
+trumpet.mp3 - downloaded from http://ccmixter.org/files/subdes2/4432
+taiko-drum.mp3 - downloaded from http://ccmixter.org/files/rocavaco/24272
+banjo.mp3 - downloaded from http://ccmixter.org/files/Fireproof_Babies/11637
