@@ -1,4 +1,4 @@
-This directory contains images used in 21 reason html file(day6)
+This directory contains images used in 21 reason html file(Project 6)
 
 tamilnadu.gif - downloaded from http://www.visitvalparai.com/img/Tamilnadu_Tourism_logo.gif
 home.jpg - downloaded from http://upload.wikimedia.org/wikipedia/commons/b/be/Palm-leaf_manuscript.jpg

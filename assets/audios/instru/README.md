@@ -1,4 +1,4 @@
-These mp3 files are day 8 html:
+These mp3 files are Project 8 html file:
 
 cello.mp3 - downloaded from http://ccmixter.org/files/daniloprates/36328
 

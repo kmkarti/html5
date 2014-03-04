@@ -1,4 +1,4 @@
-These files are used in day 8 html file:
+These images are used in Project 8 html file:
 
 cello.svg - Cello by Fabio Meroni / studio Slash from The Noun Project
 

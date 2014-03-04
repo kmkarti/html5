@@ -1,4 +1,6 @@
-﻿people.svg - People by Castor & Pollux from The Noun Project
+﻿These images are used in Project 9 html file:
+
+people.svg - People by Castor & Pollux from The Noun Project
 camera.svg - Camera by Edward Boatman from The Noun Project
 project.svg - Project by Kevin Laity from The Noun Project
 quote.svg - Quote by irene hoffman from The Noun Project
