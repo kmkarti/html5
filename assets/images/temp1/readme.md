@@ -11,6 +11,7 @@ twitter1.svg - Twitter by Maria Maldonado from The Noun Project
 facebook.svg - Facebook by Maria Maldonado from The Noun Project
 rss.svg - Signal by Ciro Esposito from The Noun Project
 quote1.svg - Quotation Marks by Eakarius from The Noun Project
+clock.svg - Working Time by iconoci from The Noun Project
 what.jpg - downloaded from http://www.sxc.hu/browse.phtml?f=download&id=1396283
 start.jpg - downloaded from http://www.sxc.hu/browse.phtml?f=download&id=522806
 ant.jpg - downloaded from http://www.sxc.hu/browse.phtml?f=download&id=954698
